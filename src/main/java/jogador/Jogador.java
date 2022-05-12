@@ -1,4 +1,4 @@
-package aula01;
+package jogador;
 
 import java.time.LocalDate;
 import java.util.Random;

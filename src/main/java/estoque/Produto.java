@@ -1,4 +1,4 @@
-package aula02;
+package estoque;
 
 public class Produto {
     private String nome;

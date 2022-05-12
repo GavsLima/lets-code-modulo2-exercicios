@@ -1,8 +1,7 @@
-package aula02;
+package estoque;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
 
 public class Estoque {
     public String nome;
